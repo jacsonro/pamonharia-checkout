@@ -9,4 +9,5 @@ Este Projeto faz parte do desafio "Criando uma solução de e-commerce com micro
     <li>Apache Avro</li>
     <li>Apache ZooKeeper</li>
 </ul>
-Execute o comando "docker-compose up -d --build" na pasta "ocker" para levantar toda a infra necessária para a realização dos testes
+Execute o comando "docker-compose up -d --build" na pasta "./docker" para levantar toda a infra necessária para a realização dos testes
+S
